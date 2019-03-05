@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\grayson\downloads\dsa-2\dsa\dsa\tree.h(452): warning C4715: 'nwacc::tree<int>::insert': not all control paths return a value
+  DSA.vcxproj -> C:\Users\Grayson\Downloads\DSA-2\DSA\Debug\DSA.exe
